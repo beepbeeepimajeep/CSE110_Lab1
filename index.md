@@ -1,3 +1,7 @@
+---
+layout: default
+title: Rain Donovan's User Page
+---
 # Welcome, I am Rain Donovan
 And you've found my User Page. I am a CSE undergrad at UCSD with the goal of becoming a skilled Software Engineer.
 
